@@ -1,0 +1,1 @@
+int addBook(struct Book * b);

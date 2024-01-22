@@ -1,5 +1,6 @@
 struct Book
 {
+    long int bookid;
     char title[100];
     char author[30];
     char ISBN[13];
