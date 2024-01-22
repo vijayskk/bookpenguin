@@ -1,7 +1,7 @@
 CC = gcc
 
 bookpenguin:test.c filehandling.c
-	$(CC) &? -o $@.run
+	$(CC) $? -o $@.run
 
 
 clean:
