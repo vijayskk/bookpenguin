@@ -17,4 +17,6 @@ The ```User``` datatype must contain these datas.
 - User ID ( A long integer )
 - Email ID ( A maximum 100 charecter array )
 
- 
+### Implementing file handling
+In this case it is best to use JSON ( JavaScript Object Notation ) to save our data. JSON is ASCII Based so that it can be easily managed by strings and builtin functions inside C.
+
